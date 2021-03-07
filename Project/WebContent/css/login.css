@@ -1,0 +1,73 @@
+@charset "UTF-8";
+body{
+	
+    background-color: #ebebeb;
+    background-image: url(https://www.myanmore.com/wp-content/uploads/2019/05/netflix-background-9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{ 
+    width: 560px;
+    background: #0b122b;
+    border-radius: 10px;
+    position: relative;
+    margin-left: 400px;
+    margin-top: 100px;
+    box-shadow: 0px 0px 200px #e32135;
+}
+.account_login{
+	font-family: Raleway-Medium;
+    font-size: 30px;
+    color: #b1b1b1;
+    line-height: 1.2;
+    text-align: left;
+    width: 75%;
+    display: block;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+.container p{
+	font-family: Raleway-SemiBold;
+    font-size: 13px;
+    color: #b1b1b1;
+    line-height: 1.4; 
+    margin-left: 72px;
+}
+
+.log_in_button{
+	font-family: Raleway-Bold;
+    font-size: 16px;
+    color: #fff;  
+    width: 150px;
+    height: 50px;
+    background-color: #404861;
+    border-radius: 27px;
+    border: none;
+    margin-left: -57px;
+}
+
+input {
+    outline: none;
+    border: none;
+}
+#button{
+	padding-left: 35%;
+    padding-right: 35%;
+    padding-bottom: 35px;
+}
+.input1{
+	font-family: Raleway-Medium;
+    color: #555;
+    line-height: 1.2;
+    font-size: 18px;
+    display: block;  
+    height: 55px; 
+    width: 75%; 
+    background-color: #e0dfdf;
+    border: 1px solid #e6e6e6;
+    border-radius: 2px; 
+    margin-left: 72px;
+}
